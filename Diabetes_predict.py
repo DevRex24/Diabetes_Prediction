@@ -1,4 +1,4 @@
-#Project Diabetes Prediction--
+#Project Diabetes Prediction//
 
 import streamlit as st
 import numpy as np
